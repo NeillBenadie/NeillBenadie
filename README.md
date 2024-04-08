@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeillBenadie
 - 👀 I’m interested in becoming a software Developer and currently studying and searching towards a position in that field
-- 🌱 Languages I use: C#, SQL, HTML, CSS, JavaScript 
+- 🌱 Languages I use: C#, SQL, HTML, CSS, JavaScript, ASP.NET 
 - 💞️ I’m looking to collaborate on projects regarding the above mentioned to further my development skills
 - 📫 How to reach me: neillbenadie@gmail.com / linkedin.com/in/neill-benadie-9b014b196
 
